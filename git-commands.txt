@@ -40,3 +40,5 @@
 - command for that 
 - git remote set-url origin https://token@github.com/vishal2411/github_for_devops_workshop
 
+# To Clone remote repo into local
+- git clone <url of remote branch>
