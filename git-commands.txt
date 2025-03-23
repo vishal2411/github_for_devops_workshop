@@ -37,3 +37,6 @@
 - go down and click on developer settings
 - inside that select option token - generate new token 
 - give the branch name and allow repo thats all 
+- command for that 
+- git remote set-url origin https://token@github.com/vishal2411/github_for_devops_workshop
+
