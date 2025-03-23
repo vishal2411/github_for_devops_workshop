@@ -1,0 +1,15 @@
+# For Initialization 
+- git init 
+
+# To check the status of file 
+- git status
+
+# To Staged File 
+- git add file name (for single file)
+- git add . (for multiple file)
+
+# To Unstaged the staged file
+- git rm --cached
+
+# To Track File
+- git commit -m "message"
