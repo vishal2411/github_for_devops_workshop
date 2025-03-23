@@ -13,3 +13,7 @@
 
 # To Track File
 - git commit -m "message"
+
+# To Restore deleted file
+- git restore file name
+
