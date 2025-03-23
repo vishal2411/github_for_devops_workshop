@@ -29,3 +29,11 @@
 
 # To allow remote changes history to get in local repo first time
 - git pull origin master --allow-unrelated-histories
+
+# To push code with the help of token
+- go to github 
+- click on profile 
+- go inside settings 
+- go down and click on developer settings
+- inside that select option token - generate new token 
+- give the branch name and allow repo thats all 
