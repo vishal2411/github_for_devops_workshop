@@ -17,3 +17,15 @@
 # To Restore deleted file
 - git restore file name
 
+# To link local branch to remote branch 
+- git remote add origin link
+
+# To push code to remote repo first time
+- git push  --set-upstream origin master
+
+# To Pull remote branch code into local
+- git pull <remote> <branch>
+- git pull origin master
+
+# To allow remote changes history to get in local repo first time
+- git pull origin master --allow-unrelated-histories
