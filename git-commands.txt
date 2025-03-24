@@ -42,3 +42,6 @@
 
 # To Clone remote repo into local
 - git clone <url of remote branch>
+
+# To fetch the branches 
+- git fetch
