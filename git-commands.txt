@@ -42,3 +42,14 @@
 
 # To Clone remote repo into local
 - git clone <url of remote branch>
+
+# To check branchs 
+- git branch
+
+# To create new branch 
+- git branch name 
+- git checkout -b branchname
+
+# To Switch branch 
+- git switch branch-name
+- git checkout branch-name
